@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="asm.css" />
+  </head>
+  <body>
+  <nav>
+    <ul class="menu">
+      <li><a href="#">Trang chủ</a></li>
+      <li><a href="#">Sản phẩm</a>
+      <ul >
+        <li>Logitech</li>
+        <li>Razer</li>
+        <li>Rog</li>
+      </ul></li>
+      <li><a href="#">Giới thiệu</a>
+        <ul >
+          <li>Trải nghiệm mua sắm</li>
+          <li>Showroom Miền Nam</li>
+          <li>Showroom Miền Bắc</li>
+          <li>Showroom Miền Trung</li>
+        </ul></li>
+        <li><a href="">Hỗ trợ</a>
+        <ul>
+          <li>Câu hỏi</li>
+          <li>Quy định</li>
+          <li>Chính sách</li>
+          <li>Điều khoản</li>
+        </ul>
+      </li>
+        <li><a href="#">Giỏ hàng</a></li>
+        <li><a href="">Liên hệ</a></li>
+    </ul>
+  </nav>
+      <div class="menu">
+        <div class="logo">
+          <img class="logo-img" src="img/mainlogo.jpg" alt="" width="100" />
+        </div>
+        <div class="search">
+          <input type="text" placeholder="Search..." class="menu-input" />
+        </div>
+       
+      </div>
+      <div class="banner">
+        <img src="img/banner.jpg" alt="" width="40%" class="banner-img" />
+        <img src="img/banner razer.jpg" alt="" width="30%" class="banner-img1"/>
+        <img src="img/dekstop-banner.jpg" alt="" width="30%" class="banner-img2"/>
+      </div>
+    </header>
+    <main class="main">
+      <button class="sanpham1"> Sản phẩm bán chạy</button>
+      <button class="sanpham1"> Sản phẩm giảm giá</button>
+      <button class="sanpham1"> Flash Sale </button>
+      <div>
+        <section>
+          <div class="sanpham">
+            <span class="seller">Bestseller</span>
+            <img
+              src="img/logitech1.jpg"
+              alt="Sản phẩm 1"
+            />
+           
+            <h3>Bàn phím Gaming</h3>
+            <p>Giá: 500,000 VND</p>
+            <button class="button">Thêm vào giỏ</button>
+          </div>
+          <div class="sanpham">
+            <span class="seller">Bestseller</span>
+            <img src="img/razer.jpg" alt="Sản phẩm 2" />
+            <h3>Bàn phím Gaming</h3>
+            <p>Giá: 500,000 VND</p>
+            <button class="button">Thêm vào giỏ</button>
+          </div>
+          <div class="sanpham">
+            <span class="seller">Bestseller</span>
+            <img src="img/rog.jpg" alt="Sản phẩm 1" />
+            <h3>Bàn phím Gaming</h3>
+            <p>Giá: 500,000 VND</p>
+            <button class="button">Thêm vào giỏ</button>
+          </div>
+          <div class="sanpham">
+            <span class="seller">Bestseller</span>
+            <img
+              src="img/logitech1.jpg"
+              alt="Sản phẩm 1"
+            />
+            <h3>Bàn phím Gaming</h3>
+            <p>Giá: 500,000 VND</p>
+            <button class="button">Thêm vào giỏ</button>
+          </div>
+          <div class="sanpham">
+            <span class="seller">Bestseller</span>
+            <img src="img/razer.jpg" alt="Sản phẩm 2" />
+            <h3>Bàn phím Gaming</h3>
+            <p>Giá: 500,000 VND</p>
+            <button class="button">Thêm vào giỏ</button>
+          </div>
+          <div class="sanpham">
+            <span class="seller">Bestseller</span>
+            <img src="img/rog.jpg" alt="Sản phẩm 1" />
+            <h3>Bàn phím Gaming</h3>
+            <p>Giá: 500,000 VND</p>
+            <button class="button">Thêm vào giỏ</button>
+          </div>
+          <div class="sanpham">
+            <span class="seller1">Sale 50%</span>
+            <img
+              src="img/logitech1.jpg"
+              alt="Sản phẩm 1"
+            />
+            <h3>Bàn phím Gaming</h3>
+            <p>Giá: 500,000 VND</p>
+            <button class="button">Thêm vào giỏ</button>
+          </div>
+          <div class="sanpham">
+            <span class="seller1">Sale 50%</span>
+            <img src="img/razer.jpg" alt="Sản phẩm 2" />
+            <h3>Bàn phím Gaming</h3>
+            <p>Giá: 500,000 VND</p>
+            <button class="button">Thêm vào giỏ</button>
+          </div>
+          <div class="sanpham">
+            <span class="seller1">Sale 50%</span>
+            <img src="img/rog.jpg" alt="Sản phẩm 1" />
+            <h3>Bàn phím Gaming</h3>
+            <p>Giá: 500,000 VND</p>
+            <button class="button">Thêm vào giỏ</button>
+          </div>
+          <div class="sanpham">
+            <span class="seller1">Sale 50%</span>
+            <img
+              src="img/logitech1.jpg"
+              alt="Sản phẩm 1"
+            />
+            <h3>Bàn phím Gaming</h3>
+            <p>Giá: 500,000 VND</p>
+            <button class="button">Thêm vào giỏ</button>
+          </div>
+          <div class="sanpham">
+            <span class="seller1">Sale 50%</span>
+            <img src="img/razer.jpg" alt="Sản phẩm 2" />
+            <h3>Bàn phím Gaming</h3>
+            <p>Giá: 500,000 VND</p>
+            <button class="button">Thêm vào giỏ</button>
+          </div>
+          <div class="sanpham">
+            <span class="seller1">Sale 50%</span>
+            <img src="img/rog.jpg" alt="Sản phẩm 1" />
+            <h3>Bàn phím Gaming</h3>
+            <p>Giá: 500,000 VND</p>
+            <button class="button">Thêm vào giỏ</button>
+          </div>
+          <div class="sanpham">
+            
+            <span class="seller2">Flash Sale</span>
+            <img
+              src="img/logitech1.jpg"
+              alt="Sản phẩm 1"
+            />
+            <h3>Bàn phím Gaming</h3>
+            <p>Giá: 500,000 VND</p>
+            <button class="button">Thêm vào giỏ</button>
+          </div>
+          <div class="sanpham">
+            <span class="seller2">Flash Sale</span>
+            <img src="img/razer.jpg" alt="Sản phẩm 2" />
+            <h3>Bàn phím Gaming</h3>
+            <p>Giá: 500,000 VND</p>
+            <button class="button">Thêm vào giỏ</button>
+          </div>
+          <div class="sanpham">
+            <span class="seller2">Flash Sale</span>
+            <img src="img/rog.jpg" alt="Sản phẩm 1" />
+            <h3>Bàn phím Gaming</h3>
+            <p>Giá: 500,000 VND</p>
+            <button class="button">Thêm vào giỏ</button>
+          </div>
+          <div class="sanpham">
+            <span class="seller2">Flash Sale</span>
+            <img
+              src="img/logitech1.jpg"
+              alt="Sản phẩm 1"
+            />
+            <h3>Bàn phím Gaming</h3>
+            <p>Giá: 500,000 VND</p>
+            <button class="button">Thêm vào giỏ</button>
+          </div>
+          <div class="sanpham">
+            <span class="seller2">Flash Sale</span>
+            <img src="img/razer.jpg" alt="Sản phẩm 2" />
+            <h3>Bàn phím Gaming</h3>
+            <p>Giá: 500,000 VND</p>
+            <button class="button">Thêm vào giỏ</button>
+          </div>
+          <div class="sanpham">
+            <span class="seller2">Flash Sale</span>
+            <img src="img/rog.jpg" alt="Sản phẩm 1" />
+            <h3>Bàn phím Gaming</h3>
+            <p>Giá: 500,000 VND</p>
+            <button class="button">Thêm vào giỏ</button>
+          </div>
+        </section>
+      </div>
+    </main>
+    <footer>  2023 Tên website của bạn. All rights reserved.</footer>
+  </body>
+</html>
